@@ -89,6 +89,7 @@ main {
 #botao2:hover {
     background-color: rgb(98, 116, 178);
     color: rgb(230, 230, 230);
+    cursor: pointer;
 }
 
 input {
